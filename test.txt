@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 this is for testing
+=======
+<<<<<<< HEAD
+this is a testing file
+=======
+this is for testing
+>>>>>>> dev
+>>>>>>> main
