@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a testing file
+=======
+this is for testing
+>>>>>>> dev
